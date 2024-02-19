@@ -1,0 +1,43 @@
+ADD JURNALIS Nobita
+ADD JURNALIS Dekisugi
+ADD PEKERJA_JASA Dorami
+ADD OJOL Giant
+ADD OJOL Suneo
+ADD CLEANING_SERVICE Doraemon
+ADD PETUGAS_MEDIS Shizuka
+ADD PINTU PintuKemanaSaja
+ADD ANGKUTAN_UMUM MRT
+POSITIFKAN Suneo
+INTERAKSI Suneo Giant
+INTERAKSI Giant Dekisugi
+RANTAI Dekisugi
+INTERAKSI Suneo PintuKemanaSaja
+INTERAKSI Giant PintuKemanaSaja
+INTERAKSI Doraemon Suneo
+INTERAKSI Suneo PintuKemanaSaja
+INTERAKSI Giant PintuKemanaSaja
+INTERAKSI Dorami PintuKemanaSaja
+Rantai Doraemon
+Rantai Dorami
+BERSIHKAN Doraemon PintuKemanaSaja
+INTERAKSI Nobita PintuKemanaSaja
+RANTAI Nobita
+INTERAKSI Suneo MRT
+INTERAKSI Giant MRT
+BERSIHKAN Doraemon MRT
+INTERAKSI Nobita MRT
+RANTAI Nobita
+INTERAKSI Dorami MRT
+SEMBUHKAN Shizuka Suneo
+SEMBUHKAN Shizuka Giant
+SEMBUHKAN Shizuka Doraemon
+SEMBUHKAN Shizuka Dorami
+INTERAKSI Nobita Dekisugi
+SEMBUHKAN Shizuka Dekisugi
+TOTAL_KASUS_DARI_OBJEK Suneo
+AKTIF_KASUS_DARI_OBJEK Suneo
+TOTAL_BERSIH_CLEANING_SERVICE Doraemon
+TOTAL_SEMBUH_PETUGAS_MEDIS Shizuka
+TOTAL_SEMBUH_MANUSIA
+RANTAI Nobita
+EXIT

@@ -1,0 +1,4 @@
+TEXT
+testcases/InputTC3.txt
+TEXT
+testcases/.out/out3.txt

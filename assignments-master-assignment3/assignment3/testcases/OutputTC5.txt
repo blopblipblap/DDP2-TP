@@ -1,0 +1,14 @@
+Rantai penyebaran JURNALIS Krysta: OJOL Brandies -> JURNALIS Krysta
+JURNALIS Krysta telah menyebarkan virus COVID ke 1 objek
+JURNALIS Krysta telah menyebarkan virus COVID dan masih teridentifikasi positif sebanyak 1 objek
+assignments.assignment3.BelumTertularException: CLEANING SERVICE Genta berstatus negatif
+Total sembuh dari kasus COVID yang menimpa manusia ada sebanyak: 1 kasus
+OJOL Brandies telah menyebarkan virus COVID ke 4 objek
+Rantai penyebaran PEKERJA JASA Rabbi: OJOL Brandies -> OJOL Joko -> PEKERJA JASA Rabbi
+Total sembuh dari kasus COVID yang menimpa manusia ada sebanyak: 2 kasus
+PINTU Mall telah menyebarkan virus COVID ke 0 objek
+PETUGAS MEDIS Ariani menyembuhkan 1 manusia
+PETUGAS MEDIS Iffat menyembuhkan 1 manusia
+CLEANING SERVICE Genta membersihkan 1 benda
+assignments.assignment3.BelumTertularException: PEKERJA JASA Rabbi berstatus negatif
+Total sembuh dari kasus COVID yang menimpa manusia ada sebanyak: 2 kasus

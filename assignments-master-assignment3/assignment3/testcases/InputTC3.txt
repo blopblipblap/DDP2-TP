@@ -1,0 +1,33 @@
+ADD PEKERJA_JASA Borman
+ADD PEKERJA_JASA Sasari
+ADD PEKERJA_JASA Norman
+ADD PEKERJA_JASA Elang
+ADD CLEANING_SERVICE DekDepe
+ADD TOMBOL_LIFT LiftTimur
+ADD PEGANGAN_TANGGA TanggaBarat
+POSITIFKAN Borman
+INTERAKSI Borman LiftTimur
+INTERAKSI Sasari LiftTimur
+INTERAKSI Borman Norman
+INTERAKSI Norman LiftTimur
+INTERAKSI Borman LiftTimur
+INTERAKSI Sasari LiftTimur
+Rantai Sasari
+INTERAKSI Norman LiftTimur
+INTERAKSI Borman LiftTimur
+INTERAKSI Sasari LiftTimur
+Rantai Sasari
+BERSIHKAN DekDepe LiftTimur
+INTERAKSI Elang LiftTimur
+Rantai Elang
+INTERAKSI Sasari TanggaBarat
+INTERAKSI Norman TanggaBarat
+INTERAKSI Borman TanggaBarat
+BERSIHKAN DekDepe TanggaBarat
+INTERAKSI Sasari TanggaBarat
+INTERAKSI Norman TanggaBarat
+INTERAKSI Borman TanggaBarat
+INTERAKSI Elang TanggaBarat
+Rantai Elang
+TOTAL_BERSIH_CLEANING_SERVICE DekDepe
+EXIT

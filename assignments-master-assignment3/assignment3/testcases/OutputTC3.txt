@@ -1,0 +1,5 @@
+assignments.assignment3.BelumTertularException: PEKERJA JASA Sasari berstatus negatif
+Rantai penyebaran PEKERJA JASA Sasari: PEKERJA JASA Borman -> TOMBOL LIFT LiftTimur -> PEKERJA JASA Sasari
+assignments.assignment3.BelumTertularException: PEKERJA JASA Elang berstatus negatif
+assignments.assignment3.BelumTertularException: PEKERJA JASA Elang berstatus negatif
+CLEANING SERVICE DekDepe membersihkan 2 benda

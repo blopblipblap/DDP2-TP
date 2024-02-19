@@ -1,0 +1,223 @@
+Selamat datang di Global Asdos Data Organizing System!
+====================== GlasDOS =======================
+
+Mari buat skema penilaian!
+Masukkan banyaknya komponen penilaian:
+> Komponen Penilaian 1
+Masukkan nama komponen penilaian 1: 
+Masukkan banyaknya butir penilaian Lab:
+Masukkan bobot penilaian Lab (dalam persen):
+> Komponen Penilaian 2
+Masukkan nama komponen penilaian 2: 
+Masukkan banyaknya butir penilaian TP:
+Masukkan bobot penilaian TP (dalam persen):
+Skema penilaian berhasil dibuat!
+
+Mari masukkan data asdos dan mahasiswa!
+Masukkan banyaknya asdos:
+Data asdos 1:
+Masukkan banyaknya mahasiswa dengan kode asdos DP:
+Data mahasiswa 1:
+Data mahasiswa 2:
+Data asdos 2:
+Masukkan banyaknya mahasiswa dengan kode asdos PW:
+Data mahasiswa 1:
+Data mahasiswa 2:
+
+Inisialisasi selesai!
+
+=== Menu utama ===
+1. Input nilai
+2. Lihat detail nilai mahasiswa
+3. Rekap
+99. Keluar
+Masukkan pilihan menu:
+
+--- Input nilai ---
+Masukkan perintah input nilai dalam format berikut:
+[KodeAsdos] [NPM] [KomponenPenilaian] [NomorButirPenilaian] [Nilai] [Terlambat]
+Contoh: SMA 1234567890 Lab 1 90.00 true
+Jika sudah selesai, tulis SELESAI dan tekan tombol Enter.
+
+Sukses! Kembali ke menu utama...
+
+=== Menu utama ===
+1. Input nilai
+2. Lihat detail nilai mahasiswa
+3. Rekap
+99. Keluar
+Masukkan pilihan menu:
+
+--- Lihat detail nilai mahasiswa ---
+Masukkan data mahasiswa dalam format berikut:
+[KodeAsdos] [NPM]
+Contoh: SMA 134567890
+
+5555555555 - James McGill
+~~~ Lab (40%) ~~~
+Lab 1: 100.00
+Lab 3: 64.00 (T)
+Rerata: 82.00
+Kontribusi nilai akhir: 32.80
+
+~~~ TP (60%) ~~~
+TP: 64.00 (T)
+Kontribusi nilai akhir: 38.40
+
+Nilai akhir: 71.20
+Huruf: B
+LULUS
+
+Kembali ke menu utama...
+
+=== Menu utama ===
+1. Input nilai
+2. Lihat detail nilai mahasiswa
+3. Rekap
+99. Keluar
+Masukkan pilihan menu:
+
+--- Lihat detail nilai mahasiswa ---
+Masukkan data mahasiswa dalam format berikut:
+[KodeAsdos] [NPM]
+Contoh: SMA 134567890
+
+3333333333 - Gordon Freeman
+~~~ Lab (40%) ~~~
+Lab 1: 0.00
+Lab 2: 90.00
+Rerata: 45.00
+Kontribusi nilai akhir: 18.00
+
+~~~ TP (60%) ~~~
+TP: 90.00
+Kontribusi nilai akhir: 54.00
+
+Nilai akhir: 72.00
+Huruf: B
+LULUS
+
+Kembali ke menu utama...
+
+=== Menu utama ===
+1. Input nilai
+2. Lihat detail nilai mahasiswa
+3. Rekap
+99. Keluar
+Masukkan pilihan menu:
+
+--- Lihat detail nilai mahasiswa ---
+Masukkan data mahasiswa dalam format berikut:
+[KodeAsdos] [NPM]
+Contoh: SMA 134567890
+
+1111111111 - Scott Hansen
+~~~ Lab (40%) ~~~
+Rerata: 0.00
+Kontribusi nilai akhir: 0.00
+
+~~~ TP (60%) ~~~
+TP: 92.00
+Kontribusi nilai akhir: 55.20
+
+Nilai akhir: 55.20
+Huruf: C
+LULUS
+
+Kembali ke menu utama...
+
+=== Menu utama ===
+1. Input nilai
+2. Lihat detail nilai mahasiswa
+3. Rekap
+99. Keluar
+Masukkan pilihan menu:
+
+--- Lihat detail nilai mahasiswa ---
+Masukkan data mahasiswa dalam format berikut:
+[KodeAsdos] [NPM]
+Contoh: SMA 134567890
+
+2222222222 - Kevin Parker
+~~~ Lab (40%) ~~~
+Rerata: 0.00
+Kontribusi nilai akhir: 0.00
+
+~~~ TP (60%) ~~~
+TP: 0.00
+Kontribusi nilai akhir: 0.00
+
+Nilai akhir: 0.00
+Huruf: E
+TIDAK LULUS
+
+Kembali ke menu utama...
+
+=== Menu utama ===
+1. Input nilai
+2. Lihat detail nilai mahasiswa
+3. Rekap
+99. Keluar
+Masukkan pilihan menu:
+
+--- Lihat detail nilai mahasiswa ---
+Masukkan data mahasiswa dalam format berikut:
+[KodeAsdos] [NPM]
+Contoh: SMA 134567890
+
+Mahasiswa dengan kode asdos dan NPM tersebut tidak ditemukan!
+
+Kembali ke menu utama...
+
+=== Menu utama ===
+1. Input nilai
+2. Lihat detail nilai mahasiswa
+3. Rekap
+99. Keluar
+Masukkan pilihan menu:
+
+--- Rekap ---
+DP - Dek Depe
+~~~~~~~~~~~~~
+
+3333333333 - Gordon Freeman
+Rerata Lab: 45.00
+Rerata TP: 90.00
+Nilai akhir: 72.00
+Huruf: B
+LULUS
+
+5555555555 - James McGill
+Rerata Lab: 82.00
+Rerata TP: 64.00
+Nilai akhir: 71.20
+Huruf: B
+LULUS
+
+PW - Kak Pewe
+~~~~~~~~~~~~~
+
+1111111111 - Scott Hansen
+Rerata Lab: 0.00
+Rerata TP: 92.00
+Nilai akhir: 55.20
+Huruf: C
+LULUS
+
+2222222222 - Kevin Parker
+Rerata Lab: 0.00
+Rerata TP: 0.00
+Nilai akhir: 0.00
+Huruf: E
+TIDAK LULUS
+
+Kembali ke menu utama...
+
+=== Menu utama ===
+1. Input nilai
+2. Lihat detail nilai mahasiswa
+3. Rekap
+99. Keluar
+Masukkan pilihan menu:
+
+Terima kasih telah menggunakan GlasDOS!
